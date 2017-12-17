@@ -26,6 +26,3 @@ In order to work with IIS 10.0, the following hardware and software should be av
 * [Programming ArcGIS 10.1 with Python Cookbook](https://www.packtpub.com/application-development/programming-arcgis-101-python-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849694445)
 
 * [(MCTS) Microsoft BizTalk Server (70-595) Certification and Assessment Guide: Second Edition](https://www.packtpub.com/networking-and-servers/mcts-microsoft-biztalk-server-70-595-certification-and-assessment-guide-secon?utm_source=github&utm_medium=repository&utm_campaign=9781782172109)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
